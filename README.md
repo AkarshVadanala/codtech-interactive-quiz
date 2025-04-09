@@ -1,5 +1,5 @@
-
-In this project let's build an **Interactive Quiz Web Application** by applying the core concepts of **HTML**, **CSS**, and **JavaScript**.
+## Codtech Interactive Quiz Application
+In this project let's build an **Interactive Quiz Application** by applying the core concepts of **HTML**, **CSS**, and **JavaScript**.
 
 ---
 ## Learning Goals
@@ -33,7 +33,7 @@ The layout is clean and minimal:
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3
