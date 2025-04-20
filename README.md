@@ -1,3 +1,14 @@
+---
+
+COMPANY: "CODTECH IT SOLUTIONS"
+NAME: "AKARSH VADANALA"
+INTERN ID: "CT6WVTV"
+DOMAIN: "FRONTEND WEB DEVELOPMENT"
+DURATION: "6 WEEKS"
+MENTOR: "NEELA SANTOSH KUMAR"
+
+---
+
 ## Codtech Interactive Quiz Application
 In this project let's build an **Interactive Quiz Application** by applying the core concepts of **HTML**, **CSS**, and **JavaScript**.
 
